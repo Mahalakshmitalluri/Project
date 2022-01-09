@@ -1,7 +1,7 @@
 package calculator
 import "fmt"
 
-var a int8 =32
+var a int8 = 45
 var b int8 = 76
 
 var c int16 = 6700
